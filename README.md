@@ -13,4 +13,8 @@
 ### 提交缓冲区文件或文件夹到本地仓库
     git commit -m "xxxxxxx"
 ### 推送本地仓库的文件或文件夹到远程仓库
+<<<<<<< HEAD
     git pushkj
+=======
+    git pushkj l
+>>>>>>> 54bc5bf5b05c81ba6ea621f3b3cc93b20c480cef
