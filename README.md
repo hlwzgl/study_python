@@ -13,4 +13,4 @@
 ### 提交缓冲区文件或文件夹到本地仓库
     git commit -m "xxxxxxx"
 ### 推送本地仓库的文件或文件夹到远程仓库
-    git push
+    git pushkj l
